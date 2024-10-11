@@ -1,4 +1,4 @@
-- 👋 Hi, I’m alexy
+- 👋 Hi, I’m alex
 - 👀 I’m interested in Browser Exploitation
 - 🌱 I’m currently learning web application penetration
 - 💞️ I’m looking to collaborate on ...
